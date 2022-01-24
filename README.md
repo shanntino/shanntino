@@ -2,7 +2,7 @@
 - 👀 I’m interested in arts
 - 🌱 I’m currently learning to paint
 - 💞️ I’m looking to collaborate on arts
-- 📫 How to reach me on ig as @shanntino
+- 📫 Reach me on ig as @shanntino
 
 <!---
 shanntino/shanntino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
